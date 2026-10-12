@@ -1,0 +1,6 @@
+{
+  "name": "AegisVault Password Manager",
+  "description": "Self-hosted zero-knowledge password manager with client-side Argon2id key derivation, XChaCha20-Poly1305 envelope encryption, and Flask REST API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

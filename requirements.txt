@@ -1,0 +1,30 @@
+# Backend Core
+Flask==3.1.0
+Werkzeug==3.1.9
+Gunicorn==23.0.0
+
+# Database & Migrations
+Flask-SQLAlchemy==3.1.1
+SQLAlchemy==2.0.54
+Flask-Migrate==4.1.0
+alembic==1.20.0
+PyMySQL==1.1.1
+cryptography==44.0.0
+
+# Authentication, Sessions, CSRF & Rate Limiting
+argon2-cffi==23.1.0
+argon2-cffi-bindings==26.1.0
+Flask-Session==0.8.0
+cachelib==0.13.0
+Flask-WTF==1.2.2
+WTForms==3.2.2
+Flask-Limiter==3.10.1
+limits==5.8.0
+redis==5.2.1
+
+# Validation
+marshmallow==3.26.1
+
+# Testing
+pytest==8.3.4
+fakeredis==2.26.2
